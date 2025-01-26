@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xT0Gqz6wHk6BqX4i4M/giphy.gif" width="850" height="468" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hodHVwYTFsNGNxaXV5NXAycTAxdDR0bzg3eTk3ZjN1MG53N2x4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT3i1cejzJKMjWPLUc/giphy.gif" width="850" height="468" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A020F0&size=27&duration=6000&vCenter=true&lines=iOS+Developer.)](https://git.io/typing-svg)
 
