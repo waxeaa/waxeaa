@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/xT0Gqz6wHk6BqX4i4M/giphy.gif" width="850" height="468" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7EF&size=27&duration=6000&vCenter=true&lines=Mobile+Developer..;Follow+the+white+rabbit.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A020F0&size=27&duration=6000&vCenter=true&lines=iOS+Developer.)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyagizdo&count_bg=%2300F7EF&title_bg=%23555555&icon=flutter.svg&icon_color=%2300F7EF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaxeaa&count_bg=%23A020F0&title_bg=%23555555&icon=flutter.svg&icon_color=%23A020F0&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <h2> About Me</h2>
@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning Swıft
 
-- 👯 I’m looking to collaborate on Mobile App Projects
+- 👯 I’m looking to collaborate on iOS Development
 
-- 💬 Talk to me about Mobile App Development
+- 💬 Talk to me about iOS App Development
 
 
 <br>
