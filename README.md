@@ -4,7 +4,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyagizdo&count_bg=%2300F7EF&title_bg=%23555555&icon=flutter.svg&icon_color=%2300F7EF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![wakatime](https://wakatime.com/badge/user/8bc7a88c-d81b-4d2e-95cd-12e128028abe.svg)](https://wakatime.com/@8bc7a88c-d81b-4d2e-95cd-12e128028abe)
 
 <h2> About Me</h2>
 
@@ -29,35 +28,23 @@
 <h3 align="left">Software and tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,androidstudio,idea,git,postman,stackoverflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,idea,git,postman,stackoverflow" />
   </a>
 </p>
 
-<h3 align="left">Framework & Libraries</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter" />
-  </a>
-</p>
 
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,dart" />
+    <img src="https://skillicons.dev/icons?i=swift" />
   </a>
 </p>
 
-<h3 align="left">Familarity</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-</p>
 
 <h3 align="left">Databases and cloud hosting</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel,sqlite," />
+    <img src="https://skillicons.dev/icons?i=firebase,sqlite," />
   </a>
 </p>
 
@@ -65,7 +52,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="60px"> </h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayşenur-yiğitoğlu">
+  <a href="https://www.linkedin.com/in/ayşenur-yiğitoğlu-b3b096276">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
